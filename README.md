@@ -61,6 +61,9 @@ Final Year Computer Science Student | AI & ML Enthusiast
 
 `Python` `LangGraph` `LangChain` `Tavily` `Streamlit`
 
+🚀 Live Demo
+https://hv-newsflare.streamlit.app/
+
 ---
 
 ## 📄 DocuChat
