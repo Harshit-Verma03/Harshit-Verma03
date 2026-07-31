@@ -80,6 +80,7 @@ Final Year Computer Science Student | AI & ML Enthusiast
 **Tech Stack**
 
 `Python` `LangChain` `AstraDB` `Llama 3` `Streamlit`
+
 ---
 
 ## 🧠 L-TumorNet
